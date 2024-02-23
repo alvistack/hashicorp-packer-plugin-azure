@@ -1,0 +1,6 @@
+packer-plugin-azure: copyright-without-copyright-notice
+packer-plugin-azure: initial-upload-closes-no-bugs
+packer-plugin-azure: no-manual-page
+packer-plugin-azure: shared-library-lacks-prerequisites
+packer-plugin-azure: statically-linked-binary
+packer-plugin-azure: zero-byte-file-in-doc-directory
